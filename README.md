@@ -1,0 +1,1 @@
+A simple and quite useless jquery plugin taht simulates some elemental effects on text
