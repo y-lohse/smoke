@@ -59,7 +59,6 @@
 		
 		(function(element){
 			if (self.data('timeout') === false) {
-				alert('fu');
 				return;
 			}
 			
